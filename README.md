@@ -1,5 +1,4 @@
-# CS 8 Final Project
-## C++: Relational Database Management System (Spring 2017)
+# C++: Relational Database Management System (Spring 2017)
 
 [C++ interpretation of UCB’s Spring 2017 CS 61B Project #2.](http://datastructur.es/sp17/materials/proj/proj2/proj2.html "UCB CS 61B Spring 2017 Project Requirements")
 
